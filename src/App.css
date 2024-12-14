@@ -80,7 +80,7 @@ main {
 @media (max-width: 600px) {
 
   .app-container{
-    min-width: 100vw;
+    min-width: 150vw;
     min-height: 150vh;
   }
 
