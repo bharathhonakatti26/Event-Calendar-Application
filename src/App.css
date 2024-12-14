@@ -80,8 +80,12 @@ main {
 @media (max-width: 600px) {
 
   .app-container{
-    min-width: 148vw;
+    min-width: 100vw;
     min-height: 150vh;
+  }
+
+  .backgroundcolour{
+    margin: 30px 40px 30px 40px;
   }
 
 }
