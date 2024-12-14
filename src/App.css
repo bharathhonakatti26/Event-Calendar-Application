@@ -81,7 +81,7 @@ main {
 
   .app-container{
     min-width: 148vw;
-    min-height: 100vh;
+    min-height: 150vh;
   }
 
 }
