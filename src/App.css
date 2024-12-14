@@ -76,3 +76,12 @@ main {
   }
 
 }
+
+@media (max-width: 600px) {
+
+  .app-container{
+    min-width: 148vw;
+  }
+
+}
+
