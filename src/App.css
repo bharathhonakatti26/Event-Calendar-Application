@@ -11,6 +11,10 @@ body::-webkit-scrollbar{
   display: none;
 }
 
+main{
+    width: 68vw;
+  }
+
 .app-container {
   display: flex;
   justify-content: center;
