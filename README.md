@@ -36,7 +36,7 @@ git clone https://github.com/bharathhonakatti26/Event-Calendar-Application.git
 cd Event-Calendar-Application
 npm install
 npm run dev
-
+```
 ---
 
 ## Author
